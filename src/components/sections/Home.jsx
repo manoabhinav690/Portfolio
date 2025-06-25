@@ -25,7 +25,7 @@ export const Home = () => {
             </a>
 
             <a
-              href="/manoabhinav/resume.pdf"
+              href="/resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="border border-blue-500/50 text-blue-500 py-3 px-6 rounded font-medium transition-all duration-200 
